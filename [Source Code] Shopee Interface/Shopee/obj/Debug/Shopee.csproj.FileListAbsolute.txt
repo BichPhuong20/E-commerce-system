@@ -1,0 +1,12 @@
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\bin\Debug\Shopee.exe.config
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\bin\Debug\Shopee.exe
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\bin\Debug\Shopee.pdb
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.Properties.Resources.resources
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.exe
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.pdb
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.Login.resources
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.NguoiMua.resources
+C:\Users\nguye\Desktop\shopee\Shopee\Shopee\obj\Debug\Shopee.NguoiBan.resources
